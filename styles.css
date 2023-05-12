@@ -1,0 +1,22 @@
+.navbar form {
+  max-width: 300px;
+}
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(imgs/img-1.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(imgs/img-2.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(imgs/img-3.jpg);
+}
+
+h2 {
+  margin-top: 350px;
+}
